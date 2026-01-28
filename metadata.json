@@ -1,0 +1,8 @@
+{
+  "name": "Nur AI",
+  "description": "A high-fidelity AI chat interface powered by advanced models, featuring real-time streaming, markdown support, and a modern design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
